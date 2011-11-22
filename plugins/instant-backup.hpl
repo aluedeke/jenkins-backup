@@ -4,7 +4,7 @@ Group-Id: org.testobject.jenkins
 Short-Name: instant-backup
 Long-Name: instant-backup
 Url: http://jenkins-ci.org/plugin/instant-backup/
-Plugin-Version: 1.0-SNAPSHOT (private-11/22/2011 23:00-aluedeke)
+Plugin-Version: 1.0-SNAPSHOT (private-11/22/2011 23:17-aluedeke)
 Hudson-Version: 1.399
 Plugin-Dependencies: maven-plugin:1.399,subversion:1.11,ui-samples-plu
  gin:1.399
